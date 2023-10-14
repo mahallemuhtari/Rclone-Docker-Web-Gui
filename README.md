@@ -1,6 +1,6 @@
 ![Rclone Docker Gui](https://i.ibb.co/bvBZFxr/Screenshot-2023-10-14-at-17-53-27.png)
 
-# Installation
+# Requirements
 
 Local environment requirements (Config to Rclone File) :
 
@@ -10,7 +10,7 @@ To run on platforms such as server environment requirements(if there is rclone.c
 
 - [Docker](https://www.docker.com/)
 
-## **Install with Laravel Sail (with Docker)**
+## **Installation**
 
 🛑Step 1 : **Clone Repo**
 
