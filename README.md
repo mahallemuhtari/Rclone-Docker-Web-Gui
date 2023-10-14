@@ -2,11 +2,12 @@
 
 # Installation
 
-Config Browser Login (Local) :
+Local environment requirements (Config to Rclone File) :
 
 - [Rclone](https://rclone.org/install/)
 
-To run on platforms such as server (if there is rclone.config file) :
+To run on platforms such as server environment requirements(if there is rclone.config file) :
+
 - [Docker](https://www.docker.com/)
 
 ## **Install with Laravel Sail (with Docker)**
